@@ -28,5 +28,8 @@ If possible please provide a Screenshot/Gif here of what happened
 **LogFile name (this can be found using the '/grid logfile' slash command):**
  - 27d8_1.0.0_Last.log
 
+**Exception ID if the bot provided one.**
+- ID HERE
+
 **Additional Information**
 Add any other context about the problem here.
