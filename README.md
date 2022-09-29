@@ -9,8 +9,8 @@ You can use one of the quick links below to open a issue.
 4. [Something Else](https://github.com/bedev2/Grid-Bot-Issues/issues/new)
 
 # What is this how do I invite the bot to my server?
-1. This bot allows you to interact with the Roblox Grid Service in a containered environment and Render Avatars, Items, Places, Models and alot more you can also execute Roblox lua with no restrictions on what you can execute at all.
-2. You can invite it using [this](https://discord.com/oauth2/authorize?client_id=900285873252335656&scope=bot&permissions=414531832896) link.
+1. This bot allows you to interact with the Roblox Grid WCF Service (Roblox.RccService.Arbiter) in a containered environment which then handles RCCService instances and allows you to Render Avatars, Items, Places, Models and alot more you can also execute Roblox lua with no restrictions on what you can execute at all.
+2. You can invite this bot to your server using this [invite](https://discord.com/oauth2/authorize?client_id=900285873252335656&scope=bot&permissions=414531832896) link.
 
 # My issue was ignored.
 If your issue was ignored it was either low quality or could not be reproduced.
