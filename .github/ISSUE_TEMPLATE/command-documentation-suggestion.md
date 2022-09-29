@@ -1,6 +1,6 @@
 ---
 name: Command Documentation Suggestion
-about: Improve documentation etc
+about: Improve command documentation etc
 title: "[COMMAND-DOCUMENTATION]"
 labels: Documentation
 assignees: 3UR
