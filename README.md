@@ -1,4 +1,4 @@
-# [Roblox Grid Bot Issues](https://github.com/bedev2-deploy/Roblox-Grid-Bot)
+# [Roblox Grid Bot](https://github.com/bedev2-deploy/Roblox-Grid-Bot) Issues
 ![](http://t2.xolcdn.ml/b105a43d3fb8642722bda49c6684e322.jpg)
 
 This repository is used to report bugs, suggest features etc.
