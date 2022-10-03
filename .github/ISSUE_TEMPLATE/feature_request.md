@@ -1,20 +1,17 @@
 ---
 name: Feature request
 about: Suggest an feature to be added to Grid/Arbiter/Bot
-title: "[FEATURE]"
+title: "[Feature RQ]:"
 labels: Feature Request, Suggestion
 assignees: 3UR
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Describe the feature you'd like implemented**
+A clear and concise description.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**How could this feature improve the grid?**
+This feature can improve grid because [..]
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
