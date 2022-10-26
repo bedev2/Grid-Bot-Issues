@@ -17,7 +17,7 @@ You can use one of the quick links below to open a issue.
 2. You can invite this bot to your server using this [invite](https://discord.com/api/oauth2/authorize?client_id=900285873252335656&permissions=242733141057&scope=bot) link.
 3. This bot is highly customizable when it comes to what you wabt to do you can execute any lua without any restrictions, you can render anything and change brightness colors etc.
 
-# What does this bot lok like in use?
+# What does this bot look like in use?
 ![](https://cdn.discordapp.com/attachments/1018275579381940366/1033236939408683089/unknown.png)
 ![](https://cdn.discordapp.com/attachments/1018275579381940366/1033236827383017512/unknown.png)
 
